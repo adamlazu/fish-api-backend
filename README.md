@@ -13,5 +13,5 @@ Farhan Maulana Azis : Participate in discussion. <br>
 Muhammad Alfin Khaerudin : Participate in discussion. <br>
 Fikri Ilham Arifin : Participate in discussion. <br>
 Danan Danurwenda Adi Kusuma : Participate in discussion. <br>
-Handrian Wibisono : <br>
+Handrian Wibisono : Participate in discussion. <br>
 Veniyel Hasugian : Participate in discussion. <br>
