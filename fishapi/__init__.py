@@ -10,4 +10,6 @@ def create_app():
     except OSError:
         pass
     
+    from . import pond
+    app.register_blueprint(pond.bp)
     return app
