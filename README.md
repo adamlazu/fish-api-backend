@@ -8,4 +8,10 @@
 - Veniyel Hasugian - 1313621045
 
 # Contribute
-Mochamad Adam Lazuardi Agung : 
+Mochamad Adam Lazuardi Agung : <br>
+Farhan Maulana Azis : Participate in discussion. <br>
+Muhammad Alfin Khaerudin : Participate in discussion. <br>
+Fikri Ilham Arifin : Participate in discussion. <br>
+Danan Danurwenda Adi Kusuma : Participate in discussion. <br>
+Handrian Wibisono : <br>
+Veniyel Hasugian : Participate in discussion. <br>
