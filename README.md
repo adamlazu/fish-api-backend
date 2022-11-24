@@ -8,10 +8,10 @@
 - Veniyel Hasugian - 1313621045
 
 # Contribute
-Mochamad Adam Lazuardi Agung : <br>
+Mochamad Adam Lazuardi Agung : Participate in discussion, get and put api for pond <br>
 Farhan Maulana Azis : Participate in discussion. <br>
 Muhammad Alfin Khaerudin : Participate in discussion. <br>
 Fikri Ilham Arifin : Participate in discussion. <br>
-Danan Danurwenda Adi Kusuma : Participate in discussion. <br>
-Handrian Wibisono : Participate in discussion. <br>
+Danan Danurwenda Adi Kusuma : Participate in discussion, database configuration<br>
+Handrian Wibisono : Participate in discussion, get and post api for pond list <br>
 Veniyel Hasugian : Participate in discussion. <br>
