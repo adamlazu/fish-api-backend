@@ -9,6 +9,7 @@ def create_app():
         os.makedirs(app.instance_path)
     except OSError:
         pass
+    db.init_app(app)
     
     from . import pond
     app.register_blueprint(pond.bp)
